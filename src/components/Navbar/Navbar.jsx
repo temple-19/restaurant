@@ -39,7 +39,7 @@ const Navbar = () => {
           href="https://instagram.com/cakechef_ng?igshid=OGQ5ZDc2ODk2ZA=="
           className="p__opensans"
         >
-          Book Table
+          Book Cake
         </a>
       </div>
       <div className="app__navbar-smallscreen">
