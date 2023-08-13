@@ -28,19 +28,14 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="app__navbar-login">
-        <a
-          href="https://instagram.com/cakechef_ng?igshid=OGQ5ZDc2ODk2ZA=="
-          className="p__opensans"
-        >
-          Log In / Registration
-        </a>
-        <div />
-        <a
+      <a
           href="https://instagram.com/cakechef_ng?igshid=OGQ5ZDc2ODk2ZA=="
           className="p__opensans"
         >
           Book Cake
         </a>
+        <div />
+        
       </div>
       <div className="app__navbar-smallscreen">
         <GiHamburgerMenu
